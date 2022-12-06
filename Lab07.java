@@ -10,11 +10,13 @@ public class Lab07 extends Applet{
         Tree.drawTreeTrunk(g);
         Tree.drawTreeGreen(g);
         Tree.drawDrawTreeApples(g);
+        Tree.drawGrass(g);
 
-        Flower.drawPetals(g);
-        Flower.drawStem(g);
-        Flower.drawLeaves(g);
-        Flower.drawCenter(g);
+        Lake.drawBody(g);
+        Lake.drawLilyPads(g);
+        Lake.drawCatTails(g);
+
+
 
 
     }
