@@ -51,11 +51,11 @@ public class Tree {
                 g.drawLine(755,525,790,580);
                 g.drawLine(765,525,770,580);
                 g.drawLine(780,525,775,580);
-                g.drawLine(850,525,830,580);
-                g.drawLine(870,525,830,580);
-                g.drawLine(780,525,810,580);
-                g.drawLine(810,525,800,580);
-                g.drawLine(850,525,830,580);
+                g.drawLine(860,525,820,580);
+                g.drawLine(880,525,840,580);
+                g.drawLine(760,525,820,580);
+                g.drawLine(820,525,800,580);
+                g.drawLine(840,525,830,580);
                 g.drawLine(830,525,800,580);
                 g.drawLine(810,525,780,580);
                 g.drawLine(840,525,810,580);
